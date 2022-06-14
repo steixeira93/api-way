@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Cervejaria Bohemia",
+        "description": "...",
+        "picture": "...",
+        "city": "Petrópolis"
+    },
+    {
+        "title": "Cachaçaria Werneck",
+        "description": "...",
+        "picture": "...",
+        "city": "Rio das Flores"
+    },
+    {
+        "tittle": "Restaurante Crémerie",
+        "description": "...",
+        "picture": "...",
+        "city": "Teresópolis"
+    },
+    {
+        "tittle": "Confeitaria Colombo",
+        "description": "...",
+        "picture": "...",
+        "city": "Rio de Janeiro"
+    },
+    {
+        "tittle": "Feira de São Cristóvão",
+        "description": "...",
+        "picture": "...",
+        "city": "Rio de Janeiro"
+    }
+]
